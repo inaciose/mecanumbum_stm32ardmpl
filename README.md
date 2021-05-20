@@ -2,7 +2,7 @@
 
 project mecanumbum : little mecanum with 4 wheels
 
-Platformio, stm32f103c8, arduino framework
+Platformio, stm32f103c8, arduino framework, roger clark core
 
 https://github.com/rogerclarkmelbourne/Arduino_STM32
 
